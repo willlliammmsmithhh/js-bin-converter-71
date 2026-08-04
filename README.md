@@ -6,3 +6,5 @@ Binary to decimal integer translator functions in JavaScript.
 Clone this project and look at the source files:
 - `index.js`
 - `binary.js`
+
+*Initialized by willlliammmsmithhh workspace automation.*
