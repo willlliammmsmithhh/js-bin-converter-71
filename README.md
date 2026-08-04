@@ -1,2 +1,4 @@
-# js-bin-converter-71
+# Js Bin Converter 71
+
 Binary to decimal integer translator functions in JavaScript.
+
