@@ -1,0 +1,1 @@
+exports.toDec = (b) => parseInt(b, 2);
